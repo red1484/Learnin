@@ -1,3 +1,9 @@
+# study or workout timer program. Can use it to make a number of different timers and then repeat them
+# a number of times. Also lets you save timers and load previous timers frome files.
+# examples - task1 x min task2 x min task 3 xmin ect.. repeat n times, 
+# workout run 5 min walk 1 min repeat 5 times, study 50 min break 10 min repeat x times.
+
+
 import time
 import datetime
 import json
