@@ -3,7 +3,7 @@ from urllib.request import urlopen
 
 
 # asks user a domain to search( example.com ) then inputs
-# that into crt.sh with json output and coverts that to a list
+# that into crt.sh with json output and coverts that to a file
 
 input_directory = input("domain to search:")
 
