@@ -1,6 +1,15 @@
 # Learnin
 <h3>some usefull scripts I have came up with wile learning python and bugbounty</h3>
 
+<h3>cert-sub-v2.py</h3>
+  <p>
+  updated version of certsubd.py to grab donains from cert.sh
+  that takes arguments from comand line
+  <br>
+  example: python3 cert-sub-v2.py [example.com] -o [output file]
+  </p>
+  
+
 <h3>certsubd.py</h3>
   <p>
   asks user a domain to search( example.com ) then inputs
