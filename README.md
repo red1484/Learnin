@@ -39,3 +39,8 @@
   examples - task1 x min task2 x min task 3 xmin ect.. repeat n times, 
   workout run 5 min walk 1 min repeat 5 times, study 50 min break 10 min repeat x times.
   </p>
+  
+  <h3>url-word-fast-py</h3>
+  <p>
+  takes a list of urls and breaks them down into subdomains, directories, files, parameters, parameter keys, and parameter values.
+  <p>
